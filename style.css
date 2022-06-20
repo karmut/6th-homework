@@ -1,0 +1,22 @@
+.card {
+    width: 600px;
+    height: 340px;
+    background-image: url("bg.webp");
+    background-size: cover;
+    border-radius: 40px; 
+    font-family: 'Fascinate', cursive;
+    padding-top: 120px;
+    box-sizing: border-box;
+
+}
+
+.card-company {
+  text-align: center;
+  margin: 0;
+  font-size: 50px;
+}
+
+.card-name {
+    text-align: center;
+    margin: 0;
+}
